@@ -1,8 +1,8 @@
 #Methods
 def ask_name():
-	name = str(input("Enter Your name: "))
-	print(f'Hello {name}')
-	return name
+    name = str(input("Enter Your name: "))
+    print(f'Hello {name}')
+    return name
 def ask_age():
     age = int(input("Enter Your age: "))
     return age
