@@ -6,3 +6,7 @@ Since I am coming from a JAVA background, OOP was quite easy to grasp
 I have difficulties with the TIC TAC TOE projects
 Its going great but its getting tougher :)
 (28 - 08 - 2020)
+So, I took a break for a few days
+But today i finished my Milestone project 2 
+a blackjack game
+(08-09-2020)
