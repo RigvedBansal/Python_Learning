@@ -134,6 +134,8 @@ def dealer_wins(player,dealer,chips):
 def push(player,dealer):
     print("Dealer and Player tie! It's a push.")
 
+ # Set up the Player's chips
+player_chips = Chips()  # remember the default value is 100    
 while True:
     # Print an opening statement
     print('Welcome to BlackJack! Get as close to 21 as you can without going over!\n\
@@ -150,13 +152,12 @@ while True:
     dealer_hand = Hand()
     dealer_hand.add_card(deck.deal())
     dealer_hand.add_card(deck.deal())
-            
-    # Set up the Player's chips
-    player_chips = Chips()  # remember the default value is 100    
-    
+         
     # Prompt the Player for their bet
     take_bet(player_chips)
-    
+    if player_chips.total <= 0 :
+    	print("AWW bad luck you ran out of chips!!!")
+    	break
     # Show cards (but keep one dealer card hidden)
     show_some(player_hand,dealer_hand)
     
