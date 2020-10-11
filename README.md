@@ -13,4 +13,6 @@ a blackjack game
 So i didnt commit any changes or new files for a long time as I had exams
 and i forgot to upload the new changes
 so im about to finish my python course and im feeling pretty confident!!!!
+i also learned many other modules such as InstaPy,wikipedia,youtube,folium and pyautogui
+the next thing im going to learn is web development with flask
 (11-10-2020)
