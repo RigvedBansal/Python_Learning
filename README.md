@@ -10,3 +10,7 @@ So, I took a break for a few days
 But today i finished my Milestone project 2 
 a blackjack game
 (08-09-2020)
+So i didnt commit any changes or new files for a long time as I had exams
+and i forgot to upload the new changes
+so im about to finish my python course and im feeling pretty confident!!!!
+(11-10-2020)
